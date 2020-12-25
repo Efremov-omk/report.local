@@ -11,7 +11,7 @@
             <div class="collapse navbar-collapse" id="navbarContent">
                 <ul class="nav navbar-nav mr-auto" role="tablist">
                     <li class="nav-item">
-                        <a class="nav-link active" data-toggle="pill" href="#main" role="tab" aria-selected="true">
+                        <a class="nav-link active" data-toggle="pill" href="#reports.index" role="tab" aria-selected="true">
                             Цифровой отчет
                         </a>
                     </li>
